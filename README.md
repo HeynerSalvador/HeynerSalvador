@@ -1,6 +1,6 @@
 # Hola, Bienvenidos !! 👋
 
-![programador](./assets/programming-laptop.png)
+![programador]()
 
 > No es quien termina primero sino como llegas a serlo!! 💪🙌
 
