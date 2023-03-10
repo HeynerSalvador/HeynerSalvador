@@ -1,6 +1,6 @@
 # Hola, Bienvenidos !! 👋
 
-![hola](./assets/Hand%20coding-bro.svg)
+![programador](./assets/programming-laptop.png)
 
 > No es quien termina primero sino como llegas a serlo!! 💪🙌
 
