@@ -1,7 +1,9 @@
 # Hola, Bienvenidos !! 👋
 
-![programador](./assets/programming-laptop.png)
-
+<div id="header" align="center">
+  <img src="./assets/programming-laptop.png" />
+</div>
+    
 > No es quien termina primero sino como llegas a serlo!! 💪🙌
 
 ## 🚀 About Me
