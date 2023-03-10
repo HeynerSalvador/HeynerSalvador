@@ -1,7 +1,7 @@
 # Hola, Bienvenidos !! 👋
 
 <div id="header" align="center">
-  <img src="./assets/programming-laptop.png" />
+  <img src="" />
 </div>
     
 > No es quien termina primero sino como llegas a serlo!! 💪🙌
